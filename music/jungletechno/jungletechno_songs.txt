@@ -1,0 +1,11 @@
+
+music_station = "jungletechno"
+
+music = {
+	song = ""
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}

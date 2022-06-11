@@ -1,0 +1,11 @@
+
+music_station = "folk"
+
+music = {
+	song = ""
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
