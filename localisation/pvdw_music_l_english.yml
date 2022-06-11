@@ -1,4 +1,5 @@
 ﻿l_english:
+#Radio Names
  russian_TITLE:0 "MOSCOW station"
  ambiencemedieval_TITLE:0 "The Lost Past Radio"
  folk_TITLE:0 "Radio Roots"
@@ -6,3 +7,26 @@
  martialindustrial_TITLE:0 "Station Industrial"
  psychedelicrock_TITLE:0 "Psycho Station"
  synthwave_TITLE:0 "Radio Wave" 
+
+#Music
+
+#Russian
+ weakthosedays:0 "Utro - Oh How I Was Weak Those Days"
+ unknownforce:0 "Utro - Unknown Force"
+
+#ambience
+
+
+#folk
+
+
+#jungle
+
+
+#industrial
+
+
+#psycho
+
+
+#synth

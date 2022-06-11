@@ -2,7 +2,15 @@
 music_station = "russian"
 
 music = {
-	song = ""
+	song = "weakthosedays"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "unknownforce"
 	chance = {
 		modifier = {
 			factor = 0.5
