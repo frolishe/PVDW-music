@@ -2,7 +2,7 @@
 music_station = "folk"
 
 music = {
-	song = ""
+	song = "kasatschok"
 	chance = {
 		modifier = {
 			factor = 0.5

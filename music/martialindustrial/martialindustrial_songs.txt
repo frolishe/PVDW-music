@@ -2,7 +2,23 @@
 music_station = "martialindustrial"
 
 music = {
-	song = ""
+	song = "drzava"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "herzfelde"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "transnational"
 	chance = {
 		modifier = {
 			factor = 0.5

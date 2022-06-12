@@ -2,7 +2,31 @@
 music_station = "jungletechno"
 
 music = {
-	song = ""
+	song = "spacefunk1"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "spacefunk2"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "essence"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "timestep"
 	chance = {
 		modifier = {
 			factor = 0.5

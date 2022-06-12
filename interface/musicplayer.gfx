@@ -96,8 +96,47 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_russian_album_art"
-		texturefile = "gfx//interface//topbar//musicplayer//russian_album_art.dds"
+		name = "GFX_punk_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//punk_album_art.dds"
 		noOfFrames = 2
 	}
-	
+	spriteType = {
+		name = "GFX_synthwave_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//synthwave_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_psychedelicrock_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//psychedelicrock_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_martialindustrial_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//martialindustrial_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_jungletechno_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//jungletechno_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_folk_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//folk_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_ambience_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//ambience_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_pop_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//pop_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_metal_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//metal_album_art.dds"
+		noOfFrames = 2
+	}

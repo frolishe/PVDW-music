@@ -1,5 +1,5 @@
 music = {
-	name = ""
-	file = ".ogg"
+	name = "schizoid"
+	file = "schizoid.ogg"
 	volume = 0.65
 }

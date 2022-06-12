@@ -1,0 +1,19 @@
+
+music_station = "pop"
+
+music = {
+	song = "weirdscience"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "homage"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}

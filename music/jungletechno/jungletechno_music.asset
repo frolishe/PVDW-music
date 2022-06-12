@@ -1,5 +1,20 @@
 music = {
-	name = ""
-	file = ".ogg"
+	name = "spacefunk1"
+	file = "spacefunk1.ogg"
+	volume = 0.65
+}
+music = {
+	name = "spacefunk2"
+	file = "spacefunk2.ogg"
+	volume = 0.65
+}
+music = {
+	name = "essence"
+	file = "essence.ogg"
+	volume = 0.65
+}
+music = {
+	name = "timestep"
+	file = "timestep.ogg"
 	volume = 0.65
 }

@@ -1,32 +1,59 @@
 ﻿l_english:
 #Radio Names
- russian_TITLE:0 "MOSCOW station"
- ambiencemedieval_TITLE:0 "The Lost Past Radio"
+ punk_TITLE:0 "station B.I.L.L.Y. idol"
+ ambience_TITLE:0 "The Lost Radio"
  folk_TITLE:0 "Radio Roots"
  jungletechno_TITLE:0 "Deep Side Radio"
  martialindustrial_TITLE:0 "Station Industrial"
  psychedelicrock_TITLE:0 "Psycho Station"
  synthwave_TITLE:0 "Radio Wave" 
+ metal_TITLE:0 "Winter Power Radio"
+ pop_TITLE:0 "Thriller Station"
 
 #Music
 
-#Russian
+#Punk
  weakthosedays:0 "Utro - Oh How I Was Weak Those Days"
  unknownforce:0 "Utro - Unknown Force"
+ blackangel:0 "Death in June - Little Black Angel"
+ fields:0 "Death in June - Fields"
 
 #ambience
-
+ dontexist:0 "Andreas Rönnberg - I Don't Want to Exist"
+ letterred:0 "Mikko Tarnia - A Letter for Red"
+ lightinside:0 "Mikko Tarnia - Light Inside Darkness"
+ savehaven:0 "Shusaku Uchiyama - Save Haven"
+ firststation:0 "Andreas Rönnberg - First Station"
+ crow:0 "Andreas Rönnberg - Crow"
 
 #folk
-
+ kasatschok:0 "Kasatschok"
 
 #jungle
-
+ spacefunk1:0 "Future Bound - Spacefunk"
+ spacefunk2:0 "Stussko - Spacefunk"
+ timestep:0 "Total Science - Time Step"
+ essence:0 "Funky Technicians - The Essence"
 
 #industrial
-
+ drzava:0 "Laibach - Država"
+ herzfelde:0 "Laibach - Herz-Felde"
+ transnational:0 "Laibach - Trans-National"
 
 #psycho
-
+ schizoid:0 "King Crimson - 21 Century Schizoid Man"
 
 #synth
+ lanzarote:0 "Percival Pembroke - Lanzarote"
+
+#pop
+ weirdscience:0 "Oingo Boingo - Weird Science"
+ homage:0 "Mild High Club - Homage"
+
+#metal
+ fleches:0 "Ardente - Sous Les Flèches Déferlantes"
+ arctic:0 "Khlad - Arctic Winds Diversion"
+ russiannight:0 "Liveride - In Russian Night..."
+ berge:0 "Ellende - Berge"
+ todeswalzer:0 "Windir - Todeswalzer"
+ lethargy:0 "Cold Nordic Nipples - Lethargy (lifelover cover)"

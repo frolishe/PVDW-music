@@ -1,5 +1,15 @@
 music = {
-	name = ""
-	file = ".ogg"
+	name = "drzava"
+	file = "drzava.ogg"
+	volume = 0.65
+}
+music = {
+	name = "herzfelde"
+	file = "herzfelde.ogg"
+	volume = 0.65
+}
+music = {
+	name = "transnational"
+	file = "transnational.ogg"
 	volume = 0.65
 }

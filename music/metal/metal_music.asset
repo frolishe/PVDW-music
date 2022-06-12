@@ -1,0 +1,30 @@
+music = {
+	name = "fleches"
+	file = "fleches.ogg"
+	volume = 0.65
+}
+music = {
+	name = "arctic"
+	file = "arctic.ogg"
+	volume = 0.65
+}
+music = {
+	name = "russiannight"
+	file = "russiannight.ogg"
+	volume = 0.65
+}
+music = {
+	name = "berge"
+	file = "berge.ogg"
+	volume = 0.65
+}
+music = {
+	name = "todeswalzer"
+	file = "todeswalzer.ogg"
+	volume = 0.65
+}
+music = {
+	name = "lethargy"
+	file = "lethargy.ogg"
+	volume = 0.65
+}

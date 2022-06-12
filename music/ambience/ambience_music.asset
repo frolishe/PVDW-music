@@ -1,0 +1,30 @@
+music = {
+	name = "dontexist"
+	file = "dontexist.ogg"
+	volume = 0.65
+}
+music = {
+	name = "letterred"
+	file = "letterred.ogg"
+	volume = 0.65
+}
+music = {
+	name = "lightinside"
+	file = "lightinside.ogg"
+	volume = 0.65
+}
+music = {
+	name = "savehaven"
+	file = "savehaven.ogg"
+	volume = 0.65
+}
+music = {
+	name = "crow"
+	file = "crow.ogg"
+	volume = 0.65
+}
+music = {
+	name = "firststation"
+	file = "firststation.ogg"
+	volume = 0.65
+}

@@ -1,0 +1,35 @@
+
+music_station = "punk"
+
+music = {
+	song = "weakthosedays"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "unknownforce"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "blackangel"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "fields"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
