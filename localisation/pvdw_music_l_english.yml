@@ -27,9 +27,11 @@
  savehaven:0 "Shusaku Uchiyama - Save Haven"
  firststation:0 "Andreas Rönnberg - First Station"
  crow:0 "Andreas Rönnberg - Crow"
+ fullmoon:0 "Crane's Dream - Fullmoon"
 
 #folk
  kasatschok:0 "Kasatschok"
+ wolfe:0 "Werkraum - Wir Rufen Deine Wölfe"
 
 #jungle
  spacefunk1:0 "Future Bound - Spacefunk"
@@ -41,12 +43,14 @@
  drzava:0 "Laibach - Država"
  herzfelde:0 "Laibach - Herz-Felde"
  transnational:0 "Laibach - Trans-National"
+ akropola:0 "Laibach - Nova Akropola"
 
 #psycho
  schizoid:0 "King Crimson - 21 Century Schizoid Man"
 
 #synth
  lanzarote:0 "Percival Pembroke - Lanzarote"
+ zarya:0 "Alliance - At Dawn"
 
 #pop
  weirdscience:0 "Oingo Boingo - Weird Science"

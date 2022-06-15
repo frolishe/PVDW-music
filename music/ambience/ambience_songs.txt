@@ -49,3 +49,11 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "fullmoon"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
