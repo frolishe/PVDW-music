@@ -57,3 +57,19 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "storm"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "wakeup"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}

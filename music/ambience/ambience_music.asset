@@ -33,3 +33,13 @@ music = {
 	file = "fullmoon.ogg"
 	volume = 0.65
 }
+music = {
+	name = "storm"
+	file = "storm.ogg"
+	volume = 0.65
+}
+music = {
+	name = "wakeup"
+	file = "wakeup.ogg"
+	volume = 0.65
+}
