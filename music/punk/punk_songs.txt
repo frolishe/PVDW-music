@@ -33,3 +33,11 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "asshole"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
