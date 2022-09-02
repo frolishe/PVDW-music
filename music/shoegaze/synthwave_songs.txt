@@ -1,0 +1,35 @@
+
+music_station = "shoegaze"
+
+music = {
+	song = "sandy"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "blue"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "shoegazer"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "sometimes"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}

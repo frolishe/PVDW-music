@@ -9,6 +9,8 @@
  synthwave_TITLE:0 "Radio Wave" 
  metal_TITLE:0 "Winter Power Radio"
  pop_TITLE:0 "Thriller Station"
+ shoegaze_TITLE:0 "Radio Grace"
+ everything_TITLE:0 "Radio Last Goodbye"
 
 #Music
  maintheme:0 "Inexplicably, But a Fact"
@@ -19,6 +21,7 @@
  unknownforce:0 "Utro - Unknown Force"
  blackangel:0 "Death in June - Little Black Angel"
  fields:0 "Death in June - Fields"
+ asshole:0 "Evil-Dog - Asshole!"
 
 #ambience
  dontexist:0 "Andreas Rönnberg - I Don't Want to Exist"
@@ -34,12 +37,14 @@
 #folk
  kasatschok:0 "Kasatschok"
  wolfe:0 "Werkraum - Wir Rufen Deine Wölfe"
+ shanghai:0 "R. Armando Morabito - Shanghai, 1985"
 
 #jungle
  spacefunk1:0 "Future Bound - Spacefunk"
  spacefunk2:0 "Stussko - Spacefunk"
  timestep:0 "Total Science - Time Step"
  essence:0 "Funky Technicians - The Essence"
+ wizardsofsonic:0 "WestBam - Wizards Of The Sonic"
 
 #industrial
  drzava:0 "Laibach - Država"
@@ -49,14 +54,19 @@
 
 #psycho
  schizoid:0 "King Crimson - 21 Century Schizoid Man"
+ holland:0 "Neutral Milk Hotel - Holland, 1945"
+ advice:0 "The Pillows - Advice"
 
 #synth
  lanzarote:0 "Percival Pembroke - Lanzarote"
  zarya:0 "Alliance - At Dawn"
+ voyazh:0 "Istoriya O - Midnight Voyage"
 
 #pop
  weirdscience:0 "Oingo Boingo - Weird Science"
  homage:0 "Mild High Club - Homage"
+ madness:0 "Madness - (They Call It) Madness"
+ begoodjohnny:0 "Men At Work - Be Good Johnny"
 
 #metal
  fleches:0 "Ardente - Sous Les Flèches Déferlantes"
@@ -65,3 +75,14 @@
  berge:0 "Ellende - Berge"
  todeswalzer:0 "Windir - Todeswalzer"
  lethargy:0 "Cold Nordic Nipples - Lethargy (lifelover cover)"
+
+#shoegaze
+ sandy:0 "Whirr - Sandy"
+ blue:0 "Whirr - Blue"
+ shoegazer:0 "Pasteboard - Shoegazer"
+ sometimes:0 "My Bloody Valentine - Sometimes"
+
+#everything
+ goldenblue:0 "Sonic Youth - I Love You Golden Blue"
+ moire:0 "Mujuice - Moire"
+ whiteflags:0 "Light The White Flags Slowly - We are Armed Only With Smoldering Cigarettes and a Couple Hundred Strobe Lights"

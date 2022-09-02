@@ -1,0 +1,27 @@
+
+music_station = "everything"
+
+music = {
+	song = "goldenblue"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "moire"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "whiteflags"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}

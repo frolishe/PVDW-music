@@ -1,0 +1,15 @@
+music = {
+	name = "goldenblue"
+	file = "goldenblue.ogg"
+	volume = 0.65
+}
+music = {
+	name = "moire"
+	file = "moire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "whiteflags"
+	file = "whiteflags.ogg"
+	volume = 0.65
+}

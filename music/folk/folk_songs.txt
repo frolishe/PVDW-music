@@ -17,3 +17,11 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "shanghai"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}

@@ -8,3 +8,13 @@ music = {
 	file = "homage.ogg"
 	volume = 0.65
 }
+music = {
+	name = "madness"
+	file = "madness.ogg"
+	volume = 0.65
+}
+music = {
+	name = "begoodjohnny"
+	file = "begoodjohnny.ogg"
+	volume = 0.65
+}

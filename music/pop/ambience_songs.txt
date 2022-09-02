@@ -17,3 +17,19 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "madness"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "begoodjohnny"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}

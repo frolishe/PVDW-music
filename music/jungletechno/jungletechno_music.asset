@@ -18,3 +18,8 @@ music = {
 	file = "timestep.ogg"
 	volume = 0.65
 }
+music = {
+	name = "wizardsofsonic"
+	file = "wizardsofsonic.ogg"
+	volume = 0.65
+}
