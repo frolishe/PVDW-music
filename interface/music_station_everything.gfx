@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_everything_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//everything_album_art.dds"
+		noOfFrames = 2
+	}
+}

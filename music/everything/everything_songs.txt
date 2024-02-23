@@ -41,3 +41,11 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "firefly"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}

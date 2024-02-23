@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_hazel_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//hazel_album_art.png"
+		noOfFrames = 2
+	}
+}

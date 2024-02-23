@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_jungletechno_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//jungletechno_album_art.dds"
+		noOfFrames = 2
+	}
+}

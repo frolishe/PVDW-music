@@ -11,7 +11,8 @@
  pop_TITLE:0 "Thriller Station"
  shoegaze_TITLE:0 "Radio Grace"
  everything_TITLE:0 "Radio Last Goodbye"
-
+ hazel_TITLE:0 "Radio Hazel"
+ 
 #Music
  maintheme:0 "Inexplicably, But a Fact"
 
@@ -89,3 +90,9 @@
  whiteflags:0 "Light The White Flags Slowly - We are Armed Only With Smoldering Cigarettes and a Couple Hundred Strobe Lights"
  purl:0 "Purl - Untitled 11"
  rodan:0 "Rodan - Bible Silver Corner"
+ firefly:0 "iwantsummer - firefly"
+ 
+#hazel
+ killedthelord:0 "This Will Destroy You - Killed the Lord, Left for the New World"
+ notforwant:0 "Maybeshewill - Not for want of trying"
+ 65days:0 "65daysofstatic - Drove Through Ghosts"

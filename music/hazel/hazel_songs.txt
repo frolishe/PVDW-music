@@ -1,0 +1,28 @@
+
+music_station = "hazel"
+
+music = {
+	song = "killedthelord"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "notforwant"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "65days"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+

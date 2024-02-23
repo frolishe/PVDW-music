@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_martialindustrial_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//martialindustrial_album_art.dds"
+		noOfFrames = 2
+	}
+}
