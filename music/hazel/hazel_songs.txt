@@ -25,4 +25,11 @@ music = {
 		}		
 	}
 }
-
+music = {
+	song = "neilperry"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
